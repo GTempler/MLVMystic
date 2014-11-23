@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mystic.o
+./debug\raw2dng.o
+./debug\chdk-dng.o
+./debug\mlv_dump.o
+./debug\cr2hdr.o
+./debug\exiftool-bridge.o
+./debug\adobedng-bridge.o
+./debug\dcraw-bridge.o
+./debug\worker.o
+./debug\moc_mystic.o
+./debug\moc_worker.o
+);

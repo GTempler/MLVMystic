@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mystic.o
+./release\raw2dng.o
+./release\chdk-dng.o
+./release\mlv_dump.o
+./release\cr2hdr.o
+./release\exiftool-bridge.o
+./release\adobedng-bridge.o
+./release\dcraw-bridge.o
+./release\worker.o
+./release\moc_mystic.o
+./release\moc_worker.o
+);
