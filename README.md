@@ -8,7 +8,7 @@ Special thanks to g3gg0, hudson, and the rest of the magic lantern team fortheir
 
 Be sure to check out the original repostiories these are based on at https://bitbucket.org/hudson/magic-lantern/src
 
-Varius builds for MAC and PC may be found at secondsparkproductions.com
+Varius builds for MAC and PC may be found at http://secondsparkproductions.com
 
 Feel free to contact me with any questions or comments.
 
